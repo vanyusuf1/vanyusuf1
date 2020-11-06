@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Hyper Mart](https://github.com/vanyusuf1/Hyper-Mart)
 
-- 🌱 I’m currently learning **backend frwks(express and springboot)**
+- 🌱 I’m currently learning **MERN** Stack
 
-- 🤝 I’m looking to contribute in [appwrite](https://github.com/appwrite/appwrite)
+- 🤝 I’m looking to contribute in **ORGANIZATIONS**
 
-- 💬 Ask me about **googling😅**
+- 💬 Ask me about **PROBLEM SOLVING**
 
 - 📫 How to reach me **yusufvan71@gmail.com**
 
