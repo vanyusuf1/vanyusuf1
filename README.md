@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yusuf Van</h1>
-<h3 align="center">Experienced from design🍄 to implementation✅ to integration✅ and a motivated candidate who works effectively in a dynamic environment♻️ .</h3>
+<h3 align="center">Experienced from design to implementation to integration✅ and a motivated candidate who works effectively in a dynamic environment .</h3>
 
 - 🔭 I’m currently working on [Hyper Mart](https://github.com/vanyusuf1/Hyper-Mart)
 
