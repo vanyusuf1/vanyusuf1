@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yusuf Van</h1>
 <h3 align="center">Experienced from design to implementation to integration✅ and a motivated candidate who works effectively in a dynamic environment .</h3>
 
-- 🔭 I’m currently working on [Hyper Mart](https://github.com/vanyusuf1/Hyper-Mart)
+- 🌱 I’m currently building *products* and implementing **tech stacks**
 
-- 🌱 I’m currently learning **MERN** Stack
-
-- 🤝 I’m looking to contribute in **ORGANIZATIONS**
-
-- 💬 Ask me about **PROBLEM SOLVING**
+- 💬 Ask me about ***problem solving***
 
 - 📫 How to reach me **yusufvan71@gmail.com**
-
-- ⚡ Fun fact **Blankets are your bestfriend**
 
 - 📝 &nbsp; Checkout my **[Resume](https://drive.google.com/file/d/1chk4ZAXZdIQZFexMPjKcmv_nQ5T6UWMp/view?usp=sharing)**
 
