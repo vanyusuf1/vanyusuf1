@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yusuf Van</h1>
 <h3 align="center">Experienced from design to implementation to integration✅ and a motivated candidate who works effectively in a dynamic environment .</h3>
 
-- 🌱 I’m currently building *products* and implementing **tech stacks**
+- 🌱 I’m currently building *products* and implementing ***tech stacks***
 
 - 💬 Ask me about ***problem solving***
 
