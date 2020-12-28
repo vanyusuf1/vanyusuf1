@@ -24,7 +24,3 @@
   <summary><b>📙 Most Used Languages</b></summary>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanyusuf1&layout=compact" alt="vanyusuf1" /></p>
 </details>
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanyusuf1&show_icons=true" alt="vanyusuf1" /></p>
-</details>
