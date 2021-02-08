@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Yusuf Vanwala</h1>
-<h3 align="center">Experienced from design to implementation to integration and a motivated candidate who works effectively in a dynamic environment .</h3>
+<h3 align="center">Experienced from design to integration to implementation and a motivated candidate who works effectively in a dynamic environment .</h3>
 
 - 🌱 I’m currently building *products* and implementing ***tech stacks***
 
